@@ -1,0 +1,16 @@
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\bin\Debug\PdfReader.exe.config
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\bin\Debug\PdfReader.exe
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\bin\Debug\PdfReader.pdb
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\bin\Debug\Interop.AcroPDFLib.dll
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\obj\Debug\PdfReader.csproj.AssemblyReference.cache
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\obj\Debug\PdfReader.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\obj\Debug\Interop.AcroPDFLib.dll
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\obj\Debug\PdfReader.csproj.ResolveComReference.cache
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\obj\Debug\PdfReader.Form1.resources
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\obj\Debug\PdfReader.Properties.Resources.resources
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\obj\Debug\PdfReader.csproj.GenerateResource.cache
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\obj\Debug\PdfReader.csproj.CoreCompileInputs.cache
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\obj\Debug\PdfReader.exe
+D:\OneDrive - pascualbravo.edu.co\College and related\Semestre 4\Herramientas II\PdfReader\obj\Debug\PdfReader.pdb
